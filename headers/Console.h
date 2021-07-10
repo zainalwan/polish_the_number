@@ -1,5 +1,5 @@
-#ifndef CONSOLE_G
-#define CONSOLE_G
+#ifndef CONSOLE_H
+#define CONSOLE_H
 
 #include <iostream>
 #include <string>
