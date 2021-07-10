@@ -31,4 +31,4 @@ clean:
 	rm -rf *.o
 
 uninstall:
-	rm -rf ${BINARY_DIRECTORY}
+	rm -rf ${BINARY_DIRECTORY}/${BINARY_NAME}
