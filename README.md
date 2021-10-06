@@ -8,8 +8,7 @@
 * [License](#license)
 
 ## Introduction
-This is a simple program to polish a number. The number will displayed as
-follows:
+This is a simple program to polish a number.
 - Positive number will be displayed as it should be.
 - Negative number will be displayed in parentheses.
 
